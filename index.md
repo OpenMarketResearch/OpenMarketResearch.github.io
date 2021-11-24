@@ -1,6 +1,9 @@
-layout: page
+---
+layout: default
 title: "Open Market Research | Market research analysis open sourced!"
 permalink: /
+---
+
 
 ## Open Market Research: Market research analysis open-sourced!
 
